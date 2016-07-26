@@ -7,16 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="LengthTest" Content="Test Length" HorizontalAlignment="Left" Margin="23,31,0,0" VerticalAlignment="Top" Width="95"/>
-        <Button x:Name="ContainsTest" Content="Test Contains" HorizontalAlignment="Left" Margin="141,31,0,0" VerticalAlignment="Top" Width="88"/>
-        <Button x:Name="IndexOfTest" Content="Test IndexOf" HorizontalAlignment="Left" Margin="253,31,0,0" VerticalAlignment="Top" Width="95"/>
+        <Button x:Name="LengthTest" Content="Test Length" HorizontalAlignment="Left" Margin="23,31,0,0" VerticalAlignment="Top" Width="95" Click="LengthTest_Click"/>
+        <Button x:Name="ContainsTest" Content="Test Contains" HorizontalAlignment="Left" Margin="141,31,0,0" VerticalAlignment="Top" Width="88" Click="ContainsTest_Click"/>
+        <Button x:Name="IndexOfTest" Content="Test IndexOf" HorizontalAlignment="Left" Margin="253,31,0,0" VerticalAlignment="Top" Width="95" Click="IndexOfTest_Click"/>
         <Button x:Name="InsertSubStrTest" Content="Test InsertSubString" HorizontalAlignment="Left" Margin="370,31,0,0" VerticalAlignment="Top" Width="123" Height="20" IsCancel="True" Click="InsertSubStrTest_Click"/>
-        <Button x:Name="DeleteSubStringTest" Content="Test DeleteSubString" HorizontalAlignment="Left" Margin="171,98,0,0" VerticalAlignment="Top" Width="123"/>
-        <Button x:Name="ToUpperTest" Content="Test ToUpper" HorizontalAlignment="Left" Margin="253,166,0,0" VerticalAlignment="Top" Width="95"/>
-        <Button x:Name="StringCompareTest" Content="Test StringCompare" HorizontalAlignment="Left" Margin="318,98,0,0" VerticalAlignment="Top" Width="123"/>
-        <Button x:Name="ReplaceSubStringTest" Content="Test ReplaceSubString" HorizontalAlignment="Left" Margin="23,98,0,0" VerticalAlignment="Top" Width="123"/>
-        <Button x:Name="ToLowerTest" Content="Test ToLower" HorizontalAlignment="Left" Margin="141,166,0,0" VerticalAlignment="Top" Width="88"/>
-        <Button x:Name="SplitTest" Content="Test Split" HorizontalAlignment="Left" Margin="23,166,0,0" VerticalAlignment="Top" Width="95"/>
+        <Button x:Name="DeleteSubStringTest" Content="Test DeleteSubString" HorizontalAlignment="Left" Margin="171,98,0,0" VerticalAlignment="Top" Width="123" Click="DeleteSubStringTest_Click"/>
+        <Button x:Name="ToUpperTest" Content="Test ToUpper" HorizontalAlignment="Left" Margin="253,166,0,0" VerticalAlignment="Top" Width="95" Click="ToUpperTest_Click"/>
+        <Button x:Name="StringCompareTest" Content="Test StringCompare" HorizontalAlignment="Left" Margin="318,98,0,0" VerticalAlignment="Top" Width="123" Click="StringCompareTest_Click"/>
+        <Button x:Name="ReplaceSubStringTest" Content="Test ReplaceSubString" HorizontalAlignment="Left" Margin="23,98,0,0" VerticalAlignment="Top" Width="123" Click="ReplaceSubStringTest_Click"/>
+        <Button x:Name="ToLowerTest" Content="Test ToLower" HorizontalAlignment="Left" Margin="141,166,0,0" VerticalAlignment="Top" Width="88" Click="ToLowerTest_Click"/>
+        <Button x:Name="SplitTest" Content="Test Split" HorizontalAlignment="Left" Margin="23,166,0,0" VerticalAlignment="Top" Width="95" Click="SplitTest_Click"/>
 
     </Grid>
 </Window>

@@ -1,1 +1,16 @@
 \\ict.ru.ac.za\dfs\ughomes\g16h0403\my documents\visual studio 2015\Projects\G16h0403 Prac 2 Part B\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\bin\Debug\ThinkLib.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403_Prac_2_Part_B.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.pdb

@@ -47,7 +47,7 @@
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
     <Reference Include="ThinkLib">
-      <HintPath>C:\Users\g16h0403\Downloads\ThinkLib.dll</HintPath>
+      <HintPath>C:\Users\g16h0403\Downloads\Money_talk\Money_talk\ThinkLib.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
