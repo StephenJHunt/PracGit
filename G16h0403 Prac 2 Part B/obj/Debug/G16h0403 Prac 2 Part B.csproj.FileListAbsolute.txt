@@ -14,3 +14,17 @@
 \\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.csproj.GenerateResource.Cache
 \\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.exe
 \\ict.ru.ac.za\DFS\UGHomes\g16h0403\My Documents\Visual Studio 2015\Projects\G16h0403 Prac 2 Part B\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.pdb
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.exe.config
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.exe
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.pdb
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.exe
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\bin\Debug\G16h0403 Prac 2 Part B.pdb
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\App.g.cs
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B_MarkupCompile.cache
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B_MarkupCompile.lref
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.g.resources
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403_Prac_2_Part_B.Properties.Resources.resources
+C:\Users\Stephen\Source\Repos\PracGit\G16h0403 Prac 2 Part B\obj\Debug\G16h0403 Prac 2 Part B.csproj.GenerateResource.Cache
